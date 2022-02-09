@@ -12,7 +12,7 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": 1753472576,
+        "HashCode": -1739683755,
         "Kind": "Components.Component",
         "Name": "BlazorServerApp.Pages.Counter",
         "AssemblyName": "BlazorServerApp",
@@ -22,13 +22,23 @@
             "TagName": "Counter"
           }
         ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "IncrementAmount",
+            "TypeName": "System.Int32",
+            "Metadata": {
+              "Common.PropertyName": "IncrementAmount"
+            }
+          }
+        ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "BlazorServerApp.Pages.Counter"
         }
       },
       {
-        "HashCode": 1849163711,
+        "HashCode": 1292143477,
         "Kind": "Components.Component",
         "Name": "BlazorServerApp.Pages.Counter",
         "AssemblyName": "BlazorServerApp",
@@ -36,6 +46,16 @@
         "TagMatchingRules": [
           {
             "TagName": "BlazorServerApp.Pages.Counter"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "IncrementAmount",
+            "TypeName": "System.Int32",
+            "Metadata": {
+              "Common.PropertyName": "IncrementAmount"
+            }
           }
         ],
         "Metadata": {
@@ -16629,6 +16649,11 @@
     {
       "FilePath": "c:\\Users\\Fuat\\Documents\\GitHub\\STAGE-CG-FY\\BlazorServerApp\\Pages\\Index.razor",
       "TargetPath": "Pages\\Index.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\Fuat\\Documents\\GitHub\\STAGE-CG-FY\\BlazorServerApp\\Pages\\Todo.razor",
+      "TargetPath": "Pages\\Todo.razor",
       "FileKind": "component"
     },
     {
