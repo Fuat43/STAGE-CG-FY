@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "Tlup77gWowbCdpqbpq5IYPw+j87r3Z7GiXHJbYPSAgQ=",
+  "Source": "ThirdPartyChatLib",
+  "BasePath": "_content/ThirdPartyChatLib",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ThirdPartyChatLib\\wwwroot",
+      "Source": "ThirdPartyChatLib",
+      "ContentRoot": "C:\\Users\\Fuat\\Documents\\GitHub\\STAGE-CG-FY\\BlazorWasmApp\\BlazorWasmApp\\ThirdPartyChatLib\\wwwroot\\",
+      "BasePath": "_content/ThirdPartyChatLib",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Fuat\\Documents\\GitHub\\STAGE-CG-FY\\BlazorWasmApp\\BlazorWasmApp\\ThirdPartyChatLib\\wwwroot\\background.png",
+      "SourceId": "ThirdPartyChatLib",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Fuat\\Documents\\GitHub\\STAGE-CG-FY\\BlazorWasmApp\\BlazorWasmApp\\ThirdPartyChatLib\\wwwroot\\",
+      "BasePath": "_content/ThirdPartyChatLib",
+      "RelativePath": "background.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\background.png"
+    },
+    {
+      "Identity": "C:\\Users\\Fuat\\Documents\\GitHub\\STAGE-CG-FY\\BlazorWasmApp\\BlazorWasmApp\\ThirdPartyChatLib\\wwwroot\\exampleJsInterop.js",
+      "SourceId": "ThirdPartyChatLib",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Fuat\\Documents\\GitHub\\STAGE-CG-FY\\BlazorWasmApp\\BlazorWasmApp\\ThirdPartyChatLib\\wwwroot\\",
+      "BasePath": "_content/ThirdPartyChatLib",
+      "RelativePath": "exampleJsInterop.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\exampleJsInterop.js"
+    }
+  ]
+}

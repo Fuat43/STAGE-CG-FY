@@ -1,0 +1,12 @@
+C:\Users\Fuat\Documents\GitHub\STAGE-CG-FY\BlazorWasmApp\BlazorWasmApp\Shared\bin\Debug\net6.0\BlazorWasmApp.Shared.deps.json
+C:\Users\Fuat\Documents\GitHub\STAGE-CG-FY\BlazorWasmApp\BlazorWasmApp\Shared\bin\Debug\net6.0\BlazorWasmApp.Shared.dll
+C:\Users\Fuat\Documents\GitHub\STAGE-CG-FY\BlazorWasmApp\BlazorWasmApp\Shared\bin\Debug\net6.0\ref\BlazorWasmApp.Shared.dll
+C:\Users\Fuat\Documents\GitHub\STAGE-CG-FY\BlazorWasmApp\BlazorWasmApp\Shared\bin\Debug\net6.0\BlazorWasmApp.Shared.pdb
+C:\Users\Fuat\Documents\GitHub\STAGE-CG-FY\BlazorWasmApp\BlazorWasmApp\Shared\obj\Debug\net6.0\BlazorWasmApp.Shared.csproj.AssemblyReference.cache
+C:\Users\Fuat\Documents\GitHub\STAGE-CG-FY\BlazorWasmApp\BlazorWasmApp\Shared\obj\Debug\net6.0\BlazorWasmApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fuat\Documents\GitHub\STAGE-CG-FY\BlazorWasmApp\BlazorWasmApp\Shared\obj\Debug\net6.0\BlazorWasmApp.Shared.AssemblyInfoInputs.cache
+C:\Users\Fuat\Documents\GitHub\STAGE-CG-FY\BlazorWasmApp\BlazorWasmApp\Shared\obj\Debug\net6.0\BlazorWasmApp.Shared.AssemblyInfo.cs
+C:\Users\Fuat\Documents\GitHub\STAGE-CG-FY\BlazorWasmApp\BlazorWasmApp\Shared\obj\Debug\net6.0\BlazorWasmApp.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Fuat\Documents\GitHub\STAGE-CG-FY\BlazorWasmApp\BlazorWasmApp\Shared\obj\Debug\net6.0\BlazorWasmApp.Shared.dll
+C:\Users\Fuat\Documents\GitHub\STAGE-CG-FY\BlazorWasmApp\BlazorWasmApp\Shared\obj\Debug\net6.0\ref\BlazorWasmApp.Shared.dll
+C:\Users\Fuat\Documents\GitHub\STAGE-CG-FY\BlazorWasmApp\BlazorWasmApp\Shared\obj\Debug\net6.0\BlazorWasmApp.Shared.pdb

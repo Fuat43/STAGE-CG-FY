@@ -12,6 +12,39 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
+        "HashCode": 1270894154,
+        "Kind": "Components.Component",
+        "Name": "BlazorServerApp.Pages.Todo",
+        "AssemblyName": "BlazorServerApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Todo"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorServerApp.Pages.Todo"
+        }
+      },
+      {
+        "HashCode": 82381695,
+        "Kind": "Components.Component",
+        "Name": "BlazorServerApp.Pages.Todo",
+        "AssemblyName": "BlazorServerApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorServerApp.Pages.Todo"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorServerApp.Pages.Todo",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -1739683755,
         "Kind": "Components.Component",
         "Name": "BlazorServerApp.Pages.Counter",
