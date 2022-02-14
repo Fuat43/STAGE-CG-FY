@@ -11,41 +11,41 @@ build_property.EnableTrimAnalyzer = true
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = BlazorWasmApp.Client
 build_property.RootNamespace = BlazorWasmApp.Client
-build_property.ProjectDir = C:\Users\Fuat\Documents\GitHub\STAGE-CG-FY\BlazorWasmApp\BlazorWasmApp\Client\
+build_property.ProjectDir = C:\Users\YOFUAT\Documents\Github\STAGE-CG-FY\BlazorWasmApp\BlazorWasmApp\Client\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Fuat\Documents\GitHub\STAGE-CG-FY\BlazorWasmApp\BlazorWasmApp\Client
+build_property.MSBuildProjectDirectory = C:\Users\YOFUAT\Documents\Github\STAGE-CG-FY\BlazorWasmApp\BlazorWasmApp\Client
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Fuat/Documents/GitHub/STAGE-CG-FY/BlazorWasmApp/BlazorWasmApp/Client/App.razor]
+[C:/Users/YOFUAT/Documents/Github/STAGE-CG-FY/BlazorWasmApp/BlazorWasmApp/Client/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Fuat/Documents/GitHub/STAGE-CG-FY/BlazorWasmApp/BlazorWasmApp/Client/Pages/Contacts.razor]
+[C:/Users/YOFUAT/Documents/Github/STAGE-CG-FY/BlazorWasmApp/BlazorWasmApp/Client/Pages/Contacts.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Fuat/Documents/GitHub/STAGE-CG-FY/BlazorWasmApp/BlazorWasmApp/Client/Pages/Index.razor]
+[C:/Users/YOFUAT/Documents/Github/STAGE-CG-FY/BlazorWasmApp/BlazorWasmApp/Client/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Fuat/Documents/GitHub/STAGE-CG-FY/BlazorWasmApp/BlazorWasmApp/Client/Pages/Settings.razor]
+[C:/Users/YOFUAT/Documents/Github/STAGE-CG-FY/BlazorWasmApp/BlazorWasmApp/Client/Pages/Settings.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2V0dGluZ3MucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Fuat/Documents/GitHub/STAGE-CG-FY/BlazorWasmApp/BlazorWasmApp/Client/Shared/SurveyPrompt.razor]
+[C:/Users/YOFUAT/Documents/Github/STAGE-CG-FY/BlazorWasmApp/BlazorWasmApp/Client/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Fuat/Documents/GitHub/STAGE-CG-FY/BlazorWasmApp/BlazorWasmApp/Client/_Imports.razor]
+[C:/Users/YOFUAT/Documents/Github/STAGE-CG-FY/BlazorWasmApp/BlazorWasmApp/Client/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Fuat/Documents/GitHub/STAGE-CG-FY/BlazorWasmApp/BlazorWasmApp/Client/Shared/MainLayout.razor]
+[C:/Users/YOFUAT/Documents/Github/STAGE-CG-FY/BlazorWasmApp/BlazorWasmApp/Client/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-lmu39o11go
 
-[C:/Users/Fuat/Documents/GitHub/STAGE-CG-FY/BlazorWasmApp/BlazorWasmApp/Client/Shared/NavMenu.razor]
+[C:/Users/YOFUAT/Documents/Github/STAGE-CG-FY/BlazorWasmApp/BlazorWasmApp/Client/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-zjfhrwg6li

@@ -5,7 +5,7 @@
       "url": "css\/app.css"
     },
     {
-      "hash": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=",
+      "hash": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7\/p4nS6D\/0=",
       "url": "css\/bootstrap\/bootstrap.min.css"
     },
     {
@@ -829,10 +829,6 @@
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
-      "hash": "sha256-wbTVn69TU0+WI83iB+kky8tf\/BjZdYJeM0rUP96ur\/c=",
-      "url": "_framework\/dotnet.6.0.2.jjuf476sju.js"
-    },
-    {
       "hash": "sha256-9CBC8Dy2PSGOWOyYnxE7NSoyYzDDDcaexiBpkBhI80U=",
       "url": "_framework\/dotnet.timezones.blat"
     },
@@ -861,7 +857,7 @@
       "url": "_framework\/BlazorWasmApp.Shared.dll"
     },
     {
-      "hash": "sha256-iHBOS3udydpWvG6yvczhryObU2JltTU37hZpOgkedyc=",
+      "hash": "sha256-\/iNK82ozhLCX3lvbAA+s+VR4afqbnWGwDKAp2yR\/QP8=",
       "url": "_framework\/ThirdPartyChatLib.dll"
     },
     {
@@ -869,15 +865,15 @@
       "url": "_framework\/BlazorWasmApp.Shared.pdb"
     },
     {
-      "hash": "sha256-3ixQmN2FadmsAGjJSLbSeym6JQPCIrwkIJfiOlWYWlA=",
+      "hash": "sha256-zTwVFuM+poPmYaLlm7XWyGmcYqfvgey0d3Btk7OFVAo=",
       "url": "_framework\/ThirdPartyChatLib.pdb"
     },
     {
-      "hash": "sha256-2m\/IGn1AJURYxq55+ZqALNBgqCfTme8B1VeV0GDRZKw=",
+      "hash": "sha256-3z+fQ36gKEAHz19smORWRFnqlwvdSJ+kKcLMsrwGeeM=",
       "url": "_framework\/BlazorWasmApp.Client.dll"
     },
     {
-      "hash": "sha256-lrfgbwErSccbSZCTIucVruwHa0N5Wce+Mljw6gs6Gi0=",
+      "hash": "sha256-\/fvFdzhbOVRS51Rx80Ao0B7ceVzMX4hHiYdKxp8J\/ZM=",
       "url": "_framework\/BlazorWasmApp.Client.pdb"
     },
     {
@@ -885,8 +881,12 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-B9N+bYmoUpQGN3yQ5c+ww6TWBCKKMe1ScfJulUQlxyc=",
+      "hash": "sha256-vE+2WTL1VsrSjDtc7+1T6IO7CtNj14dun0ETJns+GnI=",
       "url": "_framework\/blazor.boot.json"
+    },
+    {
+      "hash": "sha256-wbTVn69TU0+WI83iB+kky8tf\/BjZdYJeM0rUP96ur\/c=",
+      "url": "_framework\/dotnet.6.0.2.ro8ren8kqs.js"
     },
     {
       "hash": "sha256-WeOKCkI7IdJHs2kCqsKgLfiWX4\/sNPbaRUspOLefkCY=",
@@ -897,5 +897,5 @@
       "url": "_content\/ThirdPartyChatLib\/exampleJsInterop.js"
     }
   ],
-  "version": "\/sd8KZno"
+  "version": "LxyLhtq2"
 };

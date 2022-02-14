@@ -8,26 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Fuat\\.nuget\\packages\\": {}
+    "C:\\Users\\YOFUAT\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fuat\\Documents\\GitHub\\STAGE-CG-FY\\BlazorWasmApp\\BlazorWasmApp\\Shared\\BlazorWasmApp.Shared.csproj",
+      "projectUniqueName": "C:\\Users\\YOFUAT\\Documents\\Github\\STAGE-CG-FY\\BlazorWasmApp\\BlazorWasmApp\\Shared\\BlazorWasmApp.Shared.csproj",
       "projectName": "BlazorWasmApp.Shared",
-      "projectPath": "C:\\Users\\Fuat\\Documents\\GitHub\\STAGE-CG-FY\\BlazorWasmApp\\BlazorWasmApp\\Shared\\BlazorWasmApp.Shared.csproj",
-      "packagesPath": "C:\\Users\\Fuat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fuat\\Documents\\GitHub\\STAGE-CG-FY\\BlazorWasmApp\\BlazorWasmApp\\Shared\\obj\\",
+      "projectPath": "C:\\Users\\YOFUAT\\Documents\\Github\\STAGE-CG-FY\\BlazorWasmApp\\BlazorWasmApp\\Shared\\BlazorWasmApp.Shared.csproj",
+      "packagesPath": "C:\\Users\\YOFUAT\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\YOFUAT\\Documents\\Github\\STAGE-CG-FY\\BlazorWasmApp\\BlazorWasmApp\\Shared\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Fuat\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\YOFUAT\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

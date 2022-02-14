@@ -1606,37 +1606,35 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Fuat\\.nuget\\packages\\": {}
+    "C:\\Users\\YOFUAT\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fuat\\Documents\\GitHub\\STAGE-CG-FY\\BlazorWasmApp\\BlazorWasmApp\\Client\\BlazorWasmApp.Client.csproj",
+      "projectUniqueName": "C:\\Users\\YOFUAT\\Documents\\Github\\STAGE-CG-FY\\BlazorWasmApp\\BlazorWasmApp\\Client\\BlazorWasmApp.Client.csproj",
       "projectName": "BlazorWasmApp.Client",
-      "projectPath": "C:\\Users\\Fuat\\Documents\\GitHub\\STAGE-CG-FY\\BlazorWasmApp\\BlazorWasmApp\\Client\\BlazorWasmApp.Client.csproj",
-      "packagesPath": "C:\\Users\\Fuat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fuat\\Documents\\GitHub\\STAGE-CG-FY\\BlazorWasmApp\\BlazorWasmApp\\Client\\obj\\",
+      "projectPath": "C:\\Users\\YOFUAT\\Documents\\Github\\STAGE-CG-FY\\BlazorWasmApp\\BlazorWasmApp\\Client\\BlazorWasmApp.Client.csproj",
+      "packagesPath": "C:\\Users\\YOFUAT\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\YOFUAT\\Documents\\Github\\STAGE-CG-FY\\BlazorWasmApp\\BlazorWasmApp\\Client\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Fuat\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\YOFUAT\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Fuat\\Documents\\GitHub\\STAGE-CG-FY\\BlazorWasmApp\\BlazorWasmApp\\Shared\\BlazorWasmApp.Shared.csproj": {
-              "projectPath": "C:\\Users\\Fuat\\Documents\\GitHub\\STAGE-CG-FY\\BlazorWasmApp\\BlazorWasmApp\\Shared\\BlazorWasmApp.Shared.csproj"
+            "C:\\Users\\YOFUAT\\Documents\\Github\\STAGE-CG-FY\\BlazorWasmApp\\BlazorWasmApp\\Shared\\BlazorWasmApp.Shared.csproj": {
+              "projectPath": "C:\\Users\\YOFUAT\\Documents\\Github\\STAGE-CG-FY\\BlazorWasmApp\\BlazorWasmApp\\Shared\\BlazorWasmApp.Shared.csproj"
             },
-            "C:\\Users\\Fuat\\Documents\\GitHub\\STAGE-CG-FY\\BlazorWasmApp\\BlazorWasmApp\\ThirdPartyChatLib\\ThirdPartyChatLib.csproj": {
-              "projectPath": "C:\\Users\\Fuat\\Documents\\GitHub\\STAGE-CG-FY\\BlazorWasmApp\\BlazorWasmApp\\ThirdPartyChatLib\\ThirdPartyChatLib.csproj"
+            "C:\\Users\\YOFUAT\\Documents\\Github\\STAGE-CG-FY\\BlazorWasmApp\\BlazorWasmApp\\ThirdPartyChatLib\\ThirdPartyChatLib.csproj": {
+              "projectPath": "C:\\Users\\YOFUAT\\Documents\\Github\\STAGE-CG-FY\\BlazorWasmApp\\BlazorWasmApp\\ThirdPartyChatLib\\ThirdPartyChatLib.csproj"
             }
           }
         }

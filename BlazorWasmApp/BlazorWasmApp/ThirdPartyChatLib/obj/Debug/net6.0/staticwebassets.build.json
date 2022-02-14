@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Tlup77gWowbCdpqbpq5IYPw+j87r3Z7GiXHJbYPSAgQ=",
+  "Hash": "oqkvQQKe2sPdh+3T8qbk+Dp3/x3ZWL+SrIyRqXHaIq0=",
   "Source": "ThirdPartyChatLib",
   "BasePath": "_content/ThirdPartyChatLib",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "ThirdPartyChatLib\\wwwroot",
       "Source": "ThirdPartyChatLib",
-      "ContentRoot": "C:\\Users\\Fuat\\Documents\\GitHub\\STAGE-CG-FY\\BlazorWasmApp\\BlazorWasmApp\\ThirdPartyChatLib\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\YOFUAT\\Documents\\Github\\STAGE-CG-FY\\BlazorWasmApp\\BlazorWasmApp\\ThirdPartyChatLib\\wwwroot\\",
       "BasePath": "_content/ThirdPartyChatLib",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Fuat\\Documents\\GitHub\\STAGE-CG-FY\\BlazorWasmApp\\BlazorWasmApp\\ThirdPartyChatLib\\wwwroot\\background.png",
+      "Identity": "C:\\Users\\YOFUAT\\Documents\\Github\\STAGE-CG-FY\\BlazorWasmApp\\BlazorWasmApp\\ThirdPartyChatLib\\wwwroot\\background.png",
       "SourceId": "ThirdPartyChatLib",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fuat\\Documents\\GitHub\\STAGE-CG-FY\\BlazorWasmApp\\BlazorWasmApp\\ThirdPartyChatLib\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\YOFUAT\\Documents\\Github\\STAGE-CG-FY\\BlazorWasmApp\\BlazorWasmApp\\ThirdPartyChatLib\\wwwroot\\",
       "BasePath": "_content/ThirdPartyChatLib",
       "RelativePath": "background.png",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\background.png"
     },
     {
-      "Identity": "C:\\Users\\Fuat\\Documents\\GitHub\\STAGE-CG-FY\\BlazorWasmApp\\BlazorWasmApp\\ThirdPartyChatLib\\wwwroot\\exampleJsInterop.js",
+      "Identity": "C:\\Users\\YOFUAT\\Documents\\Github\\STAGE-CG-FY\\BlazorWasmApp\\BlazorWasmApp\\ThirdPartyChatLib\\wwwroot\\exampleJsInterop.js",
       "SourceId": "ThirdPartyChatLib",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Fuat\\Documents\\GitHub\\STAGE-CG-FY\\BlazorWasmApp\\BlazorWasmApp\\ThirdPartyChatLib\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\YOFUAT\\Documents\\Github\\STAGE-CG-FY\\BlazorWasmApp\\BlazorWasmApp\\ThirdPartyChatLib\\wwwroot\\",
       "BasePath": "_content/ThirdPartyChatLib",
       "RelativePath": "exampleJsInterop.js",
       "AssetKind": "All",
