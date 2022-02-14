@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\Fuat\\Documents\\GitHub\\STAGE-CG-FY\\BlazorWasmApp\\BlazorWasmApp\\ThirdPartyChatLib\\ThirdPartyChatLib.csproj",
+  "FilePath": "c:\\Users\\YOFUAT\\Documents\\Github\\STAGE-CG-FY\\BlazorWasmApp\\BlazorWasmApp\\ThirdPartyChatLib\\ThirdPartyChatLib.csproj",
   "Configuration": {
     "ConfigurationName": "Default",
     "LanguageVersion": "6.0",
@@ -13378,12 +13378,12 @@
   "RootNamespace": "ThirdPartyChatLib",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\Fuat\\Documents\\GitHub\\STAGE-CG-FY\\BlazorWasmApp\\BlazorWasmApp\\ThirdPartyChatLib\\ThirdPartyChat.razor",
+      "FilePath": "c:\\Users\\YOFUAT\\Documents\\Github\\STAGE-CG-FY\\BlazorWasmApp\\BlazorWasmApp\\ThirdPartyChatLib\\ThirdPartyChat.razor",
       "TargetPath": "ThirdPartyChat.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\Fuat\\Documents\\GitHub\\STAGE-CG-FY\\BlazorWasmApp\\BlazorWasmApp\\ThirdPartyChatLib\\_Imports.razor",
+      "FilePath": "c:\\Users\\YOFUAT\\Documents\\Github\\STAGE-CG-FY\\BlazorWasmApp\\BlazorWasmApp\\ThirdPartyChatLib\\_Imports.razor",
       "TargetPath": "_Imports.razor",
       "FileKind": "componentImport"
     }

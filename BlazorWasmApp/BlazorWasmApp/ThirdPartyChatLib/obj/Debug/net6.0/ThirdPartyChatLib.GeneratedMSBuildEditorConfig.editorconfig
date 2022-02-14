@@ -8,17 +8,17 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows,browser
 build_property.RootNamespace = ThirdPartyChatLib
 build_property.RootNamespace = ThirdPartyChatLib
-build_property.ProjectDir = C:\Users\YOFUAT\Documents\Github\STAGE-CG-FY\BlazorWasmApp\BlazorWasmApp\ThirdPartyChatLib\
+build_property.ProjectDir = c:\Users\YOFUAT\Documents\Github\STAGE-CG-FY\BlazorWasmApp\BlazorWasmApp\ThirdPartyChatLib\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\YOFUAT\Documents\Github\STAGE-CG-FY\BlazorWasmApp\BlazorWasmApp\ThirdPartyChatLib
+build_property.MSBuildProjectDirectory = c:\Users\YOFUAT\Documents\Github\STAGE-CG-FY\BlazorWasmApp\BlazorWasmApp\ThirdPartyChatLib
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/YOFUAT/Documents/Github/STAGE-CG-FY/BlazorWasmApp/BlazorWasmApp/ThirdPartyChatLib/ThirdPartyChat.razor]
+[c:/Users/YOFUAT/Documents/Github/STAGE-CG-FY/BlazorWasmApp/BlazorWasmApp/ThirdPartyChatLib/ThirdPartyChat.razor]
 build_metadata.AdditionalFiles.TargetPath = VGhpcmRQYXJ0eUNoYXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/YOFUAT/Documents/Github/STAGE-CG-FY/BlazorWasmApp/BlazorWasmApp/ThirdPartyChatLib/_Imports.razor]
+[c:/Users/YOFUAT/Documents/Github/STAGE-CG-FY/BlazorWasmApp/BlazorWasmApp/ThirdPartyChatLib/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 

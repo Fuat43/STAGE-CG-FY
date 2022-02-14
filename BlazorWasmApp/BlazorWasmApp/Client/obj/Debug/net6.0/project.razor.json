@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\Fuat\\Documents\\GitHub\\STAGE-CG-FY\\BlazorWasmApp\\BlazorWasmApp\\Client\\BlazorWasmApp.Client.csproj",
+  "FilePath": "c:\\Users\\YOFUAT\\Documents\\Github\\STAGE-CG-FY\\BlazorWasmApp\\BlazorWasmApp\\Client\\BlazorWasmApp.Client.csproj",
   "Configuration": {
     "ConfigurationName": "Default",
     "LanguageVersion": "6.0",
@@ -8,35 +8,187 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": -1620933193,
+        "HashCode": 1114154008,
         "Kind": "Components.Component",
-        "Name": "BlazorWasmApp.Client.Shared.NavMenu",
+        "Name": "BlazorWasmApp.Client.App",
         "AssemblyName": "BlazorWasmApp.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "NavMenu"
+            "TagName": "App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorWasmApp.Client.Shared.NavMenu"
+          "Common.TypeName": "BlazorWasmApp.Client.App"
         }
       },
       {
-        "HashCode": 1714923195,
+        "HashCode": 1610719562,
         "Kind": "Components.Component",
-        "Name": "BlazorWasmApp.Client.Shared.NavMenu",
+        "Name": "BlazorWasmApp.Client.App",
         "AssemblyName": "BlazorWasmApp.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "BlazorWasmApp.Client.Shared.NavMenu"
+            "TagName": "BlazorWasmApp.Client.App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorWasmApp.Client.Shared.NavMenu",
+          "Common.TypeName": "BlazorWasmApp.Client.App",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -202317362,
+        "Kind": "Components.Component",
+        "Name": "BlazorWasmApp.Client.Pages.Contacts",
+        "AssemblyName": "BlazorWasmApp.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Contacts"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorWasmApp.Client.Pages.Contacts"
+        }
+      },
+      {
+        "HashCode": -1119936738,
+        "Kind": "Components.Component",
+        "Name": "BlazorWasmApp.Client.Pages.Contacts",
+        "AssemblyName": "BlazorWasmApp.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorWasmApp.Client.Pages.Contacts"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorWasmApp.Client.Pages.Contacts",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1707054097,
+        "Kind": "Components.Component",
+        "Name": "BlazorWasmApp.Client.Pages.Index",
+        "AssemblyName": "BlazorWasmApp.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorWasmApp.Client.Pages.Index"
+        }
+      },
+      {
+        "HashCode": -596722076,
+        "Kind": "Components.Component",
+        "Name": "BlazorWasmApp.Client.Pages.Index",
+        "AssemblyName": "BlazorWasmApp.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorWasmApp.Client.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorWasmApp.Client.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1740361674,
+        "Kind": "Components.Component",
+        "Name": "BlazorWasmApp.Client.Pages.Settings",
+        "AssemblyName": "BlazorWasmApp.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Settings"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorWasmApp.Client.Pages.Settings"
+        }
+      },
+      {
+        "HashCode": -826713256,
+        "Kind": "Components.Component",
+        "Name": "BlazorWasmApp.Client.Pages.Settings",
+        "AssemblyName": "BlazorWasmApp.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorWasmApp.Client.Pages.Settings"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorWasmApp.Client.Pages.Settings",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1496199693,
+        "Kind": "Components.Component",
+        "Name": "BlazorWasmApp.Client.Shared.SurveyPrompt",
+        "AssemblyName": "BlazorWasmApp.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorWasmApp.Client.Shared.SurveyPrompt"
+        }
+      },
+      {
+        "HashCode": 1792433505,
+        "Kind": "Components.Component",
+        "Name": "BlazorWasmApp.Client.Shared.SurveyPrompt",
+        "AssemblyName": "BlazorWasmApp.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorWasmApp.Client.Shared.SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorWasmApp.Client.Shared.SurveyPrompt",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -137,187 +289,35 @@
         }
       },
       {
-        "HashCode": 1496199693,
+        "HashCode": -1620933193,
         "Kind": "Components.Component",
-        "Name": "BlazorWasmApp.Client.Shared.SurveyPrompt",
+        "Name": "BlazorWasmApp.Client.Shared.NavMenu",
         "AssemblyName": "BlazorWasmApp.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
+            "TagName": "NavMenu"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorWasmApp.Client.Shared.SurveyPrompt"
+          "Common.TypeName": "BlazorWasmApp.Client.Shared.NavMenu"
         }
       },
       {
-        "HashCode": 1792433505,
+        "HashCode": 1714923195,
         "Kind": "Components.Component",
-        "Name": "BlazorWasmApp.Client.Shared.SurveyPrompt",
+        "Name": "BlazorWasmApp.Client.Shared.NavMenu",
         "AssemblyName": "BlazorWasmApp.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "BlazorWasmApp.Client.Shared.SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
+            "TagName": "BlazorWasmApp.Client.Shared.NavMenu"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorWasmApp.Client.Shared.SurveyPrompt",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1740361674,
-        "Kind": "Components.Component",
-        "Name": "BlazorWasmApp.Client.Pages.Settings",
-        "AssemblyName": "BlazorWasmApp.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Settings"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorWasmApp.Client.Pages.Settings"
-        }
-      },
-      {
-        "HashCode": -826713256,
-        "Kind": "Components.Component",
-        "Name": "BlazorWasmApp.Client.Pages.Settings",
-        "AssemblyName": "BlazorWasmApp.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorWasmApp.Client.Pages.Settings"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorWasmApp.Client.Pages.Settings",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1707054097,
-        "Kind": "Components.Component",
-        "Name": "BlazorWasmApp.Client.Pages.Index",
-        "AssemblyName": "BlazorWasmApp.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorWasmApp.Client.Pages.Index"
-        }
-      },
-      {
-        "HashCode": -596722076,
-        "Kind": "Components.Component",
-        "Name": "BlazorWasmApp.Client.Pages.Index",
-        "AssemblyName": "BlazorWasmApp.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorWasmApp.Client.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorWasmApp.Client.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -202317362,
-        "Kind": "Components.Component",
-        "Name": "BlazorWasmApp.Client.Pages.Contacts",
-        "AssemblyName": "BlazorWasmApp.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Contacts"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorWasmApp.Client.Pages.Contacts"
-        }
-      },
-      {
-        "HashCode": -1119936738,
-        "Kind": "Components.Component",
-        "Name": "BlazorWasmApp.Client.Pages.Contacts",
-        "AssemblyName": "BlazorWasmApp.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorWasmApp.Client.Pages.Contacts"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorWasmApp.Client.Pages.Contacts",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1114154008,
-        "Kind": "Components.Component",
-        "Name": "BlazorWasmApp.Client.App",
-        "AssemblyName": "BlazorWasmApp.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorWasmApp.Client.App"
-        }
-      },
-      {
-        "HashCode": 1610719562,
-        "Kind": "Components.Component",
-        "Name": "BlazorWasmApp.Client.App",
-        "AssemblyName": "BlazorWasmApp.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorWasmApp.Client.App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorWasmApp.Client.App",
+          "Common.TypeName": "BlazorWasmApp.Client.Shared.NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -13692,42 +13692,42 @@
   "RootNamespace": "BlazorWasmApp.Client",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\Fuat\\Documents\\GitHub\\STAGE-CG-FY\\BlazorWasmApp\\BlazorWasmApp\\Client\\Shared\\NavMenu.razor",
-      "TargetPath": "Shared\\NavMenu.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\Fuat\\Documents\\GitHub\\STAGE-CG-FY\\BlazorWasmApp\\BlazorWasmApp\\Client\\Shared\\MainLayout.razor",
+      "FilePath": "c:\\Users\\YOFUAT\\Documents\\Github\\STAGE-CG-FY\\BlazorWasmApp\\BlazorWasmApp\\Client\\Shared\\MainLayout.razor",
       "TargetPath": "Shared\\MainLayout.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\Fuat\\Documents\\GitHub\\STAGE-CG-FY\\BlazorWasmApp\\BlazorWasmApp\\Client\\Pages\\Contacts.razor",
-      "TargetPath": "Pages\\Contacts.razor",
+      "FilePath": "c:\\Users\\YOFUAT\\Documents\\Github\\STAGE-CG-FY\\BlazorWasmApp\\BlazorWasmApp\\Client\\Shared\\NavMenu.razor",
+      "TargetPath": "Shared\\NavMenu.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\Fuat\\Documents\\GitHub\\STAGE-CG-FY\\BlazorWasmApp\\BlazorWasmApp\\Client\\_Imports.razor",
-      "TargetPath": "_Imports.razor",
-      "FileKind": "componentImport"
-    },
-    {
-      "FilePath": "c:\\Users\\Fuat\\Documents\\GitHub\\STAGE-CG-FY\\BlazorWasmApp\\BlazorWasmApp\\Client\\Shared\\SurveyPrompt.razor",
-      "TargetPath": "Shared\\SurveyPrompt.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\Fuat\\Documents\\GitHub\\STAGE-CG-FY\\BlazorWasmApp\\BlazorWasmApp\\Client\\Pages\\Settings.razor",
+      "FilePath": "c:\\Users\\YOFUAT\\Documents\\Github\\STAGE-CG-FY\\BlazorWasmApp\\BlazorWasmApp\\Client\\Pages\\Settings.razor",
       "TargetPath": "Pages\\Settings.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\Fuat\\Documents\\GitHub\\STAGE-CG-FY\\BlazorWasmApp\\BlazorWasmApp\\Client\\Pages\\Index.razor",
+      "FilePath": "c:\\Users\\YOFUAT\\Documents\\Github\\STAGE-CG-FY\\BlazorWasmApp\\BlazorWasmApp\\Client\\_Imports.razor",
+      "TargetPath": "_Imports.razor",
+      "FileKind": "componentImport"
+    },
+    {
+      "FilePath": "c:\\Users\\YOFUAT\\Documents\\Github\\STAGE-CG-FY\\BlazorWasmApp\\BlazorWasmApp\\Client\\Pages\\Index.razor",
       "TargetPath": "Pages\\Index.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\Fuat\\Documents\\GitHub\\STAGE-CG-FY\\BlazorWasmApp\\BlazorWasmApp\\Client\\App.razor",
+      "FilePath": "c:\\Users\\YOFUAT\\Documents\\Github\\STAGE-CG-FY\\BlazorWasmApp\\BlazorWasmApp\\Client\\Pages\\Contacts.razor",
+      "TargetPath": "Pages\\Contacts.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\YOFUAT\\Documents\\Github\\STAGE-CG-FY\\BlazorWasmApp\\BlazorWasmApp\\Client\\Shared\\SurveyPrompt.razor",
+      "TargetPath": "Shared\\SurveyPrompt.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\YOFUAT\\Documents\\Github\\STAGE-CG-FY\\BlazorWasmApp\\BlazorWasmApp\\Client\\App.razor",
       "TargetPath": "App.razor",
       "FileKind": "component"
     }
